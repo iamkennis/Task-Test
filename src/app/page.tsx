@@ -60,7 +60,7 @@ export default function Home() {
   };
 
   return (
-    <main className="">
+    <main>
       <div className="grid grid-flow-col">
         <div className=" col-span-2 relative z-40">
           <div className="flex flex-row gap-4 px-8  h-[123px] justify-start py-6 bg-[#3556AB] shadow-gray-400">
